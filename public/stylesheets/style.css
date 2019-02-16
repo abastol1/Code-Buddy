@@ -1,0 +1,24 @@
+html,body{
+  margin: 0;   
+  padding: 0; 
+  height: 100%;
+  width: 100%;
+}
+
+#mainbar{
+  height: 25%;
+}
+
+#searches, #results{
+  height: 100%;
+}
+
+#results.jumbotron{
+  padding: 0px;
+}
+
+.projectGrid{
+  border: grey 2px solid;
+  border-radius: 3px;
+  background-color: honeydew;
+}
